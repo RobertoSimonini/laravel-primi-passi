@@ -6,7 +6,7 @@
 
 <body>
     <h1>
-        Hello World
+        {{$phrase}}
     </h1>
 </body>
 </html>
